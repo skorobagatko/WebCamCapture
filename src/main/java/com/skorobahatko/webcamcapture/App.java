@@ -4,9 +4,7 @@ import com.skorobahatko.webcamcapture.view.MainWindow;
 
 import java.awt.*;
 import java.io.File;
-import java.io.InputStream;
 import java.lang.reflect.Field;
-import java.net.URL;
 
 public class App {
 
