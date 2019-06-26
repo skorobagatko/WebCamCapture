@@ -1,4 +1,3 @@
 # WebCamCapture
 
-![WebCamCapture main window](http://i.piccy.info/i9/6ad83947d7db0da6d79ee6eb661f8134/1561552396/12570/1324890/3_240.jpg)
-
+![WebCamCapture main window](http://i.piccy.info/i9/6ef6fd763f99519391b3c8e3a99c9be3/1561552396/117159/1324890/3.jpg)
